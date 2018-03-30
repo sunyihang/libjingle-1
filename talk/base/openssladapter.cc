@@ -44,6 +44,7 @@
 #include "talk/base/openssladapter.h"
 #include "talk/base/sslroots.h"
 #include "talk/base/stringutils.h"
+#include <unistd.h>     //MODIFIED
 
 // TODO: Use a nicer abstraction for mutex.
 

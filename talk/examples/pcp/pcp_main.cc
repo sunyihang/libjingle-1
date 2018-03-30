@@ -5,6 +5,7 @@
 #include <iomanip>
 #include <iostream>
 #include <string>
+#include <unistd.h>         //MODIFIED
 
 #if HAVE_CONFIG_H
 #include "config.h"
